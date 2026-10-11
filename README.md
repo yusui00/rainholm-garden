@@ -53,7 +53,7 @@ node start.mjs --lan
 ```
 
 启动器列出电脑的局域网地址。手机打开连接页，填玩家钥匙；Operit / Kelivo 填同一个电脑地址的 `/mcp`。
-若需要查看钥匙，运行 `node start.mjs --lan --show-access`。钥匙只在这次显式查看时打印。
+若需要查看钥匙，运行 `node start.mjs --lan --show-access`。钥匙只在这次显示查看时打印。
 
 ### Docker
 
